@@ -32,10 +32,3 @@ import chalk from 'chalk';
 //     }
 // }
 
-console.log("GAME OF ROCK PAPER SCISSOR")
-
-var userChoise = prompt("Choose rock or paper or scissor")
-
-
-console.log("User choice" + userChoise);
-
